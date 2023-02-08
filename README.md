@@ -1,4 +1,4 @@
-# Peso Blockchain
+![Peso Blockchain](https://user-images.githubusercontent.com/91127175/217643387-085d3c64-573b-4a7a-ae54-f26ff952ee6b.png)
 Peso is a blockchain project built in Java that aims to provide a secure and efficient way of managing transactions and data.
 
 ## Features
