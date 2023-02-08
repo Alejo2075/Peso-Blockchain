@@ -1,11 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="334d978c-c4e8-4884-b65e-f7760b7a4cef" name="Changes" comment="" />
+    <list default="true" id="334d978c-c4e8-4884-b65e-f7760b7a4cef" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/icompile/Block.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/icompile/Cryptographic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/icompile/PesoChain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/icompile/Transaction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/icompile/TransactionInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/icompile/TransactionOutput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/icompile/Wallet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/icompile/Main.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -15,7 +36,9 @@
     </option>
   </component>
   <component name="ProjectId" id="2LSoWIptuYCoatR3h9FArjEBKMw" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -24,7 +47,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -35,8 +59,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675873879351</updated>
-      <workItem from="1675873879995" duration="2000" />
+      <workItem from="1675873879995" duration="5320000" />
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
